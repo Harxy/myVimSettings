@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/harxy/Dropbox/jekyll/documentation-theme-jekyll/pages/talentpoint'
+let g:netrw_dirhist_2='/Users/harxy/projects/focusnote/ember'
